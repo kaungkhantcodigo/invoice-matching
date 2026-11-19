@@ -1,4 +1,4 @@
-# Invoice Matching Service
+# Invoice Matching
 
 Reads supplier invoices in any format (PDF, photo, iPhone HEIC, SVG, Excel, CSV, InvoiceNow XML), turns each one into **our standard invoice**, checks it against the PO and the delivery, and sorts it: **Matched** · **Matched with a note** · **Review** (a person looks).
 
