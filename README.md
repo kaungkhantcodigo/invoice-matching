@@ -4,8 +4,6 @@ Reads supplier invoices in any format (PDF, photo, iPhone HEIC, SVG, Excel, CSV,
 
 > **AI reads. Rules decide.** The AI only copies what's on the invoice. Every pass/fail is plain, explainable code.
 
-More detail: [System design](../docs/SYSTEM-DESIGN.md) · [Infrastructure on AWS](../docs/INFRASTRUCTURE-AWS.md)
-
 ---
 
 ## Setup
